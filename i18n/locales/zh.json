@@ -1,0 +1,231 @@
+{
+  "common": {
+    "accountButton": "开设账户",
+    "requestButton": "请求更多信息",
+    "form": {
+      "header": "立即注册",
+      "name": "全名",
+      "companyName": "公司名称",
+      "message": "提供更多信息给我们",
+      "country": "居住国家",
+      "searchCountry": "搜索国家...",
+      "email": "电子邮件",
+      "phone": "电话",
+      "password": "密码",
+      "formError": {
+        "title": "发生错误",
+        "text": "请重新提交您的信息或联系客户支持。",
+        "button": "确定"
+      }
+    },
+    "error": {
+      "emailRequired": "电子邮件为必填项",
+      "emailInvalid": "请输入有效的电子邮件地址",
+      "emailRegistered": "您输入的电子邮件地址已被注册。",
+      "nameRequired": "全名为必填项",
+      "nameTooShort": "全名至少需要3个字符",
+      "nameTooLong": "全名不能超过100个字符",
+      "namePartTooShort": "姓名部分至少需要2个字符",
+      "fullNameRequired": "全名为必填项",
+      "nameInvalidCharacters": "全名只能包含拉丁字符",
+      "companyRequired": "公司名称为必填项",
+      "companyTooLong": "公司名称不能超过150个字符",
+      "phoneRequired": "电话为必填项",
+      "phoneInvalid": "请输入有效的电话号码",
+      "phoneRegistered": "您输入的电话号码已被注册。",
+      "passwordRequired": "密码为必填项",
+      "passwordTooShort": "密码至少需要8个字符",
+      "passwordTooLong": "密码不能超过128个字符",
+      "passwordNoUppercase": "密码必须至少包含一个大写字母",
+      "passwordNoLowercase": "密码必须至少包含一个小写字母",
+      "passwordNoNumber": "密码必须至少包含一个数字",
+      "passwordNoSpecialChar": "密码必须至少包含一个特殊字符"
+    },
+    "success": {
+      "title": "太棒了！",
+      "subtitle": "感谢您的注册！",
+      "text": "您的奖励已准备好 — 登录以领取。"
+    }
+  },
+  "meta": {
+    "title": "与领先的经纪商合作 | SquaredFinancial",
+    "description": "与顶级经纪商合作，获取您业务成长所需的工具、技术和支持。凭借我们的全球覆盖和专业经验，助力您的业务成长和规模化。"
+  },
+  "alt": {
+    "logo": "squared 标志",
+    "logo2": "SquaredFinancial 标志",
+    "arrow": "箭头",
+    "gamma": "伽马"
+  },
+  "header": {
+    "login": "登录",
+    "tabs": [
+      "机构流动性解决方案",
+      "为何选择我们的 Prime 流动性",
+      "我们的合作对象"
+    ]
+  },
+  "heroSection": {
+    "title": "Prime 流动性.<br class='hidden-desktop' /> 专为扩展而设计",
+    "subtitle": "满足您的经纪业务成长所需的一切。",
+    "text": "深度市场接入、超高速执行与灵活流动性模型。",
+    "experience": "验证经验",
+    "awards": "全球奖项"
+  },
+  "qualitiesSection": {
+    "title": "机构流动性解决方案",
+    "description": "我们提供跨多资产类别的深度机构级流动性，具备高度定制化和高速执行。从 Prime of Prime 市场接入到低延迟基础设施及定制化定价模型，帮助经纪商和机构客户高效扩展。"
+  },
+  "chooseSection": {
+    "title": "为何选择我们的<br />Prime 流动性？",
+    "cards": {
+      "0": {
+        "title": "紧密点差<br /> & 深度市场接入",
+        "text": [
+          "Prime of Prime 流动性聚合，实现真正的市场深度。",
+          "超具竞争力点差，提供灵活加价结构。",
+          "分层执行和智能路由逻辑，专为性能优化。"
+        ]
+      },
+      "1": {
+        "title": "超高速执行<br /> & 基础设施",
+        "text": [
+          "<strong>Equinix LD4/NY4 布局</strong><br />低延迟交易。",
+          "<strong>高速订单路由</strong><br />智能执行引擎，支持复杂路由规则。",
+          "<strong>FIX API / MT4 / MT5 集成</strong><br />快速连接各平台。"
+        ]
+      },
+      "2": {
+        "title": "定制流动性<br /> & 保证金方案",
+        "text": [
+          "完全可定制的报价流、加价和路由模型。",
+          "根据风险偏好和交易流量定制流动性。",
+          "基于资产类别和风险敞口自定义保证金要求。"
+        ]
+      },
+      "3": {
+        "title": "灵活定价模型",
+        "text": [
+          "按交易量分层、固定佣金或 NTP 协议。",
+          "透明且可协商的条款，适合您的成长阶段。"
+        ]
+      },
+      "4": {
+        "title": "多资产覆盖",
+        "text": [
+          "<strong>外汇</strong>（主要货币、次要货币、奇异货币）",
+          "<strong>商品</strong>（黄金、原油、金属）",
+          "<strong>指数</strong>（全球及区域）",
+          "<strong>加密货币</strong>",
+          "<strong>股票 & ETF</strong>"
+        ]
+      },
+      "5": {
+        "title": "快速入驻<br /> & 持续支持",
+        "text": [
+          "48小时内完成设置。",
+          "专属账户管理。",
+          "机构级支持，直接访问运营台。"
+        ]
+      }
+    }
+  },
+  "workWithSection": {
+    "title": "我们的<br class='hidden-mobile' />合作对象",
+    "types": {
+      "0": "外汇 & 差价合约经纪商<br class='hidden-desktop' /> <small>(初创与成熟)</small>",
+      "1": "自营交易公司",
+      "2": "对冲基金 & 家族办公室",
+      "3": "白标服务提供商",
+      "4": "流动性聚合商"
+    },
+    "keys": {
+      "title": "关键特性<br class='hidden-mobile' /> 一览",
+      "features": {
+        "0": "紧密点差",
+        "1": "Prime of Prime 市场接入",
+        "2": "定制保证金设置",
+        "3": "低延迟执行 (Equinix)",
+        "4": "FIX API / MT4 / MT5 连接",
+        "5": "NTP & 灵活定价模型",
+        "6": "定制流动性流",
+        "7": "智能订单路由",
+        "8": "专属账户管理",
+        "9": "48小时内完成入驻"
+      }
+    }
+  },
+  "specSection": {
+    "title": "更佳条件.<br />更多机会.<br />直接明了",
+    "text": [
+      "<strong>年</strong> <br />经验",
+      "点差从",
+      "<strong>点</strong>",
+      "杠杆高达",
+      "执行速度",
+      "交易者评分",
+      "交易工具",
+      "客户支持"
+    ]
+  },
+  "startSection": {
+    "title": "今天就开始扩展",
+    "text": "加入已受益于我们可定制、高速、多资产流动性解决方案的经纪商和机构。"
+  },
+  "awardsSection": {
+    "title": "不仅仅听我们说",
+    "caption": "国际奖项认可卓越表现",
+    "cards": {
+      "1": {
+        "title": "最佳移动交易应用",
+        "text": "Pan Finance"
+      },
+      "2": {
+        "title": "最佳股票提供商",
+        "text": "Global Brands Magazine"
+      },
+      "3": {
+        "title": "最佳客户资金安全",
+        "text": "Global Brands Magazine"
+      },
+      "4": {
+        "title": "最佳差价合约经纪商",
+        "text": "AtoZ Markets"
+      },
+      "5": {
+        "title": "最可靠经纪商",
+        "text": "World Finance"
+      },
+      "6": {
+        "title": "最佳订单执行经纪商",
+        "text": "Rankia Awards"
+      }
+    }
+  },
+  "footer": {
+    "contacts": {
+      "findUs": "在这里找到我们",
+      "title": "地址",
+      "address": "Commercial House 1, Office no 4, Eden Island, Mahe, Seychelles"
+    },
+    "disclaimers": {
+      "1": {
+        "title": "风险警告:",
+        "text": "差价合约（CFD）是复杂的杠杆产品。交易 CFD 风险极高，可能不适合所有投资者。投资价值可能上升或下降，亏损可能超过初始投资或潜在收益，公司对任何个人或实体因 CFD 交易导致的全部或部分损失概不负责。"
+      },
+      "2": {
+        "title": "免责声明:",
+        "text": "本网站不向某些司法管辖区公民提供投资服务，如 EU/EEA 成员国、英国、美国、加拿大、澳大利亚、新西兰及 FATF 列表国家（包括伊朗、朝鲜和缅甸）。您必须年满 18 岁或达到所在国家法定年龄才能注册账户。"
+      },
+      "3": {
+        "title": "法律:",
+        "text": "本网站由 SQ Sey Ltd 运营，该公司获塞舌尔金融服务管理局授权并监管，作为证券经销商，执照号为 {sdLink}"
+      },
+      "sd024": "SD024",
+      "rights": {
+        "title": "© SquaredFinancial 2025。保留所有权利",
+        "links": ["Cookie 政策", "隐私政策"]
+      }
+    }
+  }
+}

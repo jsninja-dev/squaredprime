@@ -1,0 +1,243 @@
+{
+  "common": {
+    "accountButton": "Open account",
+    "requestButton": "Request more info",
+    "form": {
+      "header": "Register Now",
+      "name": "Full name",
+      "companyName": "Company name",
+      "message": "Give us more information",
+      "country": "Country of residence",
+      "searchCountry": "Search country...",
+      "email": "Email",
+      "phone": "Phone",
+      "password": "Password",
+      "formError": {
+        "title": "An error occurred",
+        "text": "Please resubmit your information or contact our Customer Support.",
+        "button": "OK"
+      }
+    },
+    "error": {
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email",
+      "emailRegistered": "The email address you have entered is already registered.",
+      "nameRequired": "Full name is required",
+      "nameTooShort": "Full name must be at least 3 characters long",
+      "nameTooLong": "Full name must be less than 100 characters long",
+      "namePartTooShort": "Name part must be at least 2 characters long",
+      "fullNameRequired": "Full name is required",
+      "nameInvalidCharacters": "Full name must contain only latin characters",
+      "companyRequired": "Company name is required",
+      "companyTooLong": "Company name must be less than 150 characters long",
+      "phoneRequired": "Phone is required",
+      "phoneInvalid": "Please enter a valid phone number",
+      "phoneRegistered": "The phone number you have entered is already registered.",
+      "passwordRequired": "Password is required",
+      "passwordTooShort": "Password must be at least 8 characters long",
+      "passwordTooLong": "Password must be less than 128 characters long",
+      "passwordNoUppercase": "Password must contain at least one uppercase letter",
+      "passwordNoLowercase": "Password must contain at least one lowercase letter",
+      "passwordNoNumber": "Password must contain at least one number",
+      "passwordNoSpecialChar": "Password must contain at least one special character"
+    },
+    "success": {
+      "title": "You Rock!",
+      "subtitle": "Thank you for registering!",
+      "text": "Your bonus is waiting — log in to claim it."
+    }
+  },
+
+  "meta": {
+    "title": "Partner with a Leading Broker | SquaredFinancial",
+    "description": "Join forces with a top-tier broker and access the tools, tech, and support you need to grow. Empower your business and scale big with our global reach and expertise."
+  },
+
+  "alt": {
+    "logo": "squared logo",
+    "logo2": "SquaredFinancial Logo",
+    "arrow": "arrow",
+    "gamma": "gamma"
+  },
+
+  "header": {
+    "login": "Log in",
+    "tabs": [
+      "Institutional Liquidity Solutions",
+      "Why Choose Our Prime Liquidity",
+      "Who We Work With"
+    ]
+  },
+
+  "heroSection": {
+    "title": "Prime Liquidity.<br class='hidden-desktop' /> Built to Scale",
+    "subtitle": "Everything your brokerage needs to grow.",
+    "text": "Deep market access, ultra-fast execution and flexible liquidity models.",
+    "experience": "Proven Expertise",
+    "awards": "Global Awards"
+  },
+
+  "qualitiesSection": {
+    "title": "Institutional Liquidity Solutions",
+    "description": "We deliver deep, institutional-grade liquidity across multiple asset classes, with full customization and speed. From Prime of Prime market access to ultra-low latency infrastructure and tailored pricing models, we empower brokers and institutional clients to scale efficiently."
+  },
+
+  "chooseSection": {
+    "title": "Why Choose Our<br /> Prime Liquidity?",
+    "cards": {
+      "0": {
+        "title": "Tight Spreads<br /> & Deep Market Access",
+        "text": [
+          "Prime of Prime liquidity aggregation for true market depth.",
+          "Ultra-competitive spreads with flexible markup structures.",
+          "Tiered execution and routing logic designed for performance."
+        ]
+      },
+      "1": {
+        "title": "Ultra-Fast Execution<br /> & Infrastructure",
+        "text": [
+          "<strong>Equinix LD4/NY4 Presence</strong><br />Trade with low-latency x-connects.",
+          "<strong>High-Speed Order Routing</strong><br />Smart execution engine with complex routing rules.",
+          "<strong>FIX API / MT4 / MT5 Integration</strong><br />Rapid connectivity across platforms."
+        ]
+      },
+      "2": {
+        "title": "Custom Liquidity<br /> & Margin Solutions",
+        "text": [
+          "Fully customizable pricing streams, markups & routing models.",
+          "Bespoke liquidity tailored to your risk profile and flow.",
+          "Customizable margin requirements based on asset class and exposure."
+        ]
+      },
+      "3": {
+        "title": "Flexible Pricing Models",
+        "text": [
+          "Volume-based tiers, flat commissions, or NTP deals.",
+          "Transparent and negotiable terms aligned with your growth stage."
+        ]
+      },
+      "4": {
+        "title": "Multi-Asset Coverage",
+        "text": [
+          "<strong>Forex</strong> (Majors, minors, exotics)",
+          "<strong>Commodities</strong> (Gold, oil, metals)",
+          "<strong>Indices</strong> (Global & regional)",
+          "<strong>Cryptocurrencies</strong>",
+          "<strong>Shares & ETFs</strong>"
+        ]
+      },
+      "5": {
+        "title": "Fast Onboarding<br /> & Ongoing Support",
+        "text": [
+          "Setup in under 48 hours.",
+          "Dedicated account management.",
+          "Institutional-grade support with direct access to our operations desk."
+        ]
+      }
+    }
+  },
+
+  "workWithSection": {
+    "title": "Who We<br class='hidden-mobile' /> Work With",
+    "types": {
+      "0": "FX & CFD Brokers<br class='hidden-desktop' /> <small>(Startup and Established)</small>",
+      "1": "Proprietary Trading Firms",
+      "2": "Hedge Funds & Family Offices",
+      "3": "White Label Providers",
+      "4": "Liquidity Aggregators"
+    },
+    "keys": {
+      "title": "Key Features<br class='hidden-mobile' /> at a Glance",
+      "features": {
+        "0": "Tight spreads",
+        "1": "Prime of Prime market access",
+        "2": "Custom margin settings",
+        "3": "Low-latency execution (Equinix)",
+        "4": "FIX API / MT4 / MT5 connectivity",
+        "5": "NTP & flexible pricing models",
+        "6": "Custom liquidity streams",
+        "7": "Smart order routing",
+        "8": "Dedicated account management",
+        "9": "Onboarding in under 48 hours"
+      }
+    }
+  },
+
+  "specSection": {
+    "title": "Better conditions.<br />More opportunities.<br />No nonsense",
+    "text": [
+      "<strong>years</strong> <br />of experience",
+      "Spreads from",
+      "<strong>pips</strong>",
+      "Leverage up to",
+      "execution speed",
+      "rated by traders",
+      "instruments",
+      "customer support"
+    ]
+  },
+
+  "startSection": {
+    "title": "Start Scaling Today",
+    "text": "Join brokers and institutions already benefiting from our customizable, high-speed, and multi-asset liquidity solutions."
+  },
+
+  "awardsSection": {
+    "title": "Don't just take our word for it",
+    "caption": "Internationally awarded for excellence",
+    "cards": {
+      "1": {
+        "title": "Best Trading Mobile App",
+        "text": "Pan Finance"
+      },
+      "2": {
+        "title": "Best Stock Provider",
+        "text": "Global Brands Magazine"
+      },
+      "3": {
+        "title": "Best Client Fund Security",
+        "text": "Global Brands Magazine"
+      },
+      "4": {
+        "title": "Best CFDs Broker",
+        "text": "AtoZ Markets"
+      },
+      "5": {
+        "title": "Most Reliable Broker",
+        "text": "World Finance"
+      },
+      "6": {
+        "title": "Best Broker in Order Execution",
+        "text": "Rankia Awards"
+      }
+    }
+  },
+
+  "footer": {
+    "contacts": {
+      "findUs": "Find us on",
+      "title": "Address",
+      "address": "Commercial House 1, Office no 4, Eden Island, Mahe, Seychelles"
+    },
+
+    "disclaimers": {
+      "1": {
+        "title": "Risk warning:",
+        "text": "CFDs are complex leveraged products. Trading in CFDs carries a high level of risk thus may not be suitable for all investors. Investment value can increase or decrease, losses may exceed the initial investment or outweigh potential profits, and a thorough understanding of the instruments is required. The Company has no liability to any person or entity for any loss or damage in whole or part caused by, resulting from, or relating to, any transactions related to CFDs."
+      },
+      "2": {
+        "title": "Disclaimers:",
+        "text": "The website is not intended to offering investment services to citizens of certain jurisdictions such as EU/EEA member states, UK, USA, Canada, Australia, New Zealand, FATF-listed countries including, among others, Iran, North Korea, and Myanmar (Burma). You must be 18 years old, or of legal age as determined in your country in order to register for an account."
+      },
+      "3": {
+        "title": "Legal:",
+        "text": "This website is operated by SQ Sey Ltd, a company authorised and regulated as a Securities Dealer by the Financial Services Authority of Seychelles with license number {sdLink}"
+      },
+      "sd024": "SD024",
+      "rights": {
+        "title": "© SquaredFinancial 2025. All rights reserved",
+        "links": ["Cookie Policy", "Privacy Policy"]
+      }
+    }
+  }
+}

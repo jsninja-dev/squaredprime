@@ -1,0 +1,231 @@
+{
+  "common": {
+    "accountButton": "Mở tài khoản",
+    "requestButton": "Yêu cầu thêm thông tin",
+    "form": {
+      "header": "Đăng ký Ngay",
+      "name": "Họ và tên",
+      "companyName": "Tên công ty",
+      "message": "Cho chúng tôi thêm thông tin",
+      "country": "Quốc gia cư trú",
+      "searchCountry": "Tìm quốc gia...",
+      "email": "Email",
+      "phone": "Điện thoại",
+      "password": "Mật khẩu",
+      "formError": {
+        "title": "Đã xảy ra lỗi",
+        "text": "Vui lòng gửi lại thông tin của bạn hoặc liên hệ Bộ phận Hỗ trợ Khách hàng.",
+        "button": "OK"
+      }
+    },
+    "error": {
+      "emailRequired": "Bắt buộc nhập email",
+      "emailInvalid": "Vui lòng nhập email hợp lệ",
+      "emailRegistered": "Địa chỉ email bạn nhập đã được đăng ký.",
+      "nameRequired": "Bắt buộc nhập họ và tên",
+      "nameTooShort": "Họ và tên phải có ít nhất 3 ký tự",
+      "nameTooLong": "Họ và tên phải ít hơn 100 ký tự",
+      "namePartTooShort": "Mỗi phần của tên phải có ít nhất 2 ký tự",
+      "fullNameRequired": "Bắt buộc nhập họ và tên",
+      "nameInvalidCharacters": "Họ và tên chỉ được chứa ký tự Latinh",
+      "companyRequired": "Bắt buộc nhập tên công ty",
+      "companyTooLong": "Tên công ty phải ít hơn 150 ký tự",
+      "phoneRequired": "Bắt buộc nhập điện thoại",
+      "phoneInvalid": "Vui lòng nhập số điện thoại hợp lệ",
+      "phoneRegistered": "Số điện thoại bạn nhập đã được đăng ký.",
+      "passwordRequired": "Bắt buộc nhập mật khẩu",
+      "passwordTooShort": "Mật khẩu phải ít nhất 8 ký tự",
+      "passwordTooLong": "Mật khẩu phải ít hơn 128 ký tự",
+      "passwordNoUppercase": "Mật khẩu phải chứa ít nhất một chữ cái viết hoa",
+      "passwordNoLowercase": "Mật khẩu phải chứa ít nhất một chữ cái viết thường",
+      "passwordNoNumber": "Mật khẩu phải chứa ít nhất một số",
+      "passwordNoSpecialChar": "Mật khẩu phải chứa ít nhất một ký tự đặc biệt"
+    },
+    "success": {
+      "title": "Tuyệt vời!",
+      "subtitle": "Cảm ơn bạn đã đăng ký!",
+      "text": "Phần thưởng của bạn đang chờ — đăng nhập để nhận."
+    }
+  },
+  "meta": {
+    "title": "Hợp tác với Broker Hàng đầu | SquaredFinancial",
+    "description": "Hợp tác với broker cao cấp và truy cập các công cụ, công nghệ và hỗ trợ bạn cần để phát triển. Nâng cao doanh nghiệp của bạn và mở rộng quy mô với phạm vi toàn cầu và chuyên môn của chúng tôi."
+  },
+  "alt": {
+    "logo": "logo squared",
+    "logo2": "Logo SquaredFinancial",
+    "arrow": "mũi tên",
+    "gamma": "gamma"
+  },
+  "header": {
+    "login": "Đăng nhập",
+    "tabs": [
+      "Giải pháp Thanh khoản Tổ chức",
+      "Tại sao chọn Prime Liquidity của chúng tôi",
+      "Chúng tôi hợp tác với ai"
+    ]
+  },
+  "heroSection": {
+    "title": "Prime Liquidity.<br class='hidden-desktop' />Tăng trưởng",
+    "subtitle": "Mọi thứ mà sàn môi giới của bạn cần để phát triển.",
+    "text": "Truy cập thị trường sâu, thực thi siêu nhanh và mô hình thanh khoản linh hoạt.",
+    "experience": "Chuyên môn đã được chứng minh",
+    "awards": "Giải thưởng Toàn cầu"
+  },
+  "qualitiesSection": {
+    "title": "Giải pháp Thanh khoản Tổ chức",
+    "description": "Chúng tôi cung cấp thanh khoản cấp tổ chức sâu trên nhiều loại tài sản, với khả năng tùy chỉnh và tốc độ cao. Từ truy cập thị trường Prime of Prime đến hạ tầng độ trễ thấp và mô hình giá tùy chỉnh, chúng tôi giúp broker và khách hàng tổ chức phát triển hiệu quả."
+  },
+  "chooseSection": {
+    "title": "Tại sao chọn<br /> Prime Liquidity của chúng tôi?",
+    "cards": {
+      "0": {
+        "title": "Chênh lệch thấp<br /> & Truy cập thị trường sâu",
+        "text": [
+          "Tổng hợp thanh khoản Prime of Prime cho độ sâu thị trường thực sự.",
+          "Chênh lệch cạnh tranh cao với cấu trúc đánh dấu linh hoạt.",
+          "Thực thi theo tầng và logic định tuyến được thiết kế cho hiệu suất."
+        ]
+      },
+      "1": {
+        "title": "Thực thi Siêu Nhanh<br /> & Hạ tầng",
+        "text": [
+          "<strong>Hiện diện Equinix LD4/NY4</strong><br />Giao dịch với kết nối độ trễ thấp.",
+          "<strong>Định tuyến lệnh tốc độ cao</strong><br />Công cụ thực thi thông minh với quy tắc định tuyến phức tạp.",
+          "<strong>Tích hợp FIX API / MT4 / MT5</strong><br />Kết nối nhanh trên mọi nền tảng."
+        ]
+      },
+      "2": {
+        "title": "Thanh khoản & Giải pháp Ký quỹ Tùy chỉnh",
+        "text": [
+          "Luồng giá, đánh dấu & mô hình định tuyến hoàn toàn tùy chỉnh.",
+          "Thanh khoản tùy chỉnh theo hồ sơ rủi ro và luồng giao dịch của bạn.",
+          "Yêu cầu ký quỹ có thể tùy chỉnh theo loại tài sản và mức độ rủi ro."
+        ]
+      },
+      "3": {
+        "title": "Mô hình Giá Linh hoạt",
+        "text": [
+          "Các cấp theo khối lượng, hoa hồng cố định hoặc thỏa thuận NTP.",
+          "Điều khoản minh bạch và có thể thương lượng phù hợp với giai đoạn tăng trưởng của bạn."
+        ]
+      },
+      "4": {
+        "title": "Phủ đa tài sản",
+        "text": [
+          "<strong>Forex</strong> (Chính, phụ, ngoại lai)",
+          "<strong>Hàng hóa</strong> (Vàng, dầu, kim loại)",
+          "<strong>Chỉ số</strong> (Toàn cầu & khu vực)",
+          "<strong>Tiền điện tử</strong>",
+          "<strong>Cổ phiếu & ETF</strong>"
+        ]
+      },
+      "5": {
+        "title": "Khởi tạo Nhanh<br /> & Hỗ trợ Liên tục",
+        "text": [
+          "Thiết lập dưới 48 giờ.",
+          "Quản lý tài khoản chuyên dụng.",
+          "Hỗ trợ cấp tổ chức với quyền truy cập trực tiếp đến bàn vận hành của chúng tôi."
+        ]
+      }
+    }
+  },
+  "workWithSection": {
+    "title": "Chúng tôi hợp tác với ai",
+    "types": {
+      "0": "Broker FX & CFD<br class='hidden-desktop' /> <small>(Mới và Đã thiết lập)</small>",
+      "1": "Công ty Giao dịch Proprietary",
+      "2": "Quỹ Hedge & Family Offices",
+      "3": "Nhà cung cấp White Label",
+      "4": "Tổng hợp Thanh khoản"
+    },
+    "keys": {
+      "title": "Các Tính năng Chính<br class='hidden-mobile' /> Tóm tắt",
+      "features": {
+        "0": "Chênh lệch thấp",
+        "1": "Truy cập thị trường Prime of Prime",
+        "2": "Cài đặt ký quỹ tùy chỉnh",
+        "3": "Thực thi độ trễ thấp (Equinix)",
+        "4": "Kết nối FIX API / MT4 / MT5",
+        "5": "NTP & mô hình giá linh hoạt",
+        "6": "Luồng thanh khoản tùy chỉnh",
+        "7": "Định tuyến lệnh thông minh",
+        "8": "Quản lý tài khoản chuyên dụng",
+        "9": "Khởi tạo dưới 48 giờ"
+      }
+    }
+  },
+  "specSection": {
+    "title": "Điều kiện tốt hơn.<br />Nhiều cơ hội hơn.<br />Không rắc rối",
+    "text": [
+      "<strong>năm</strong> <br />kinh nghiệm",
+      "Chênh lệch từ",
+      "<strong>pips</strong>",
+      "Đòn bẩy lên tới",
+      "tốc độ thực thi",
+      "được đánh giá bởi trader",
+      "công cụ",
+      "hỗ trợ khách hàng"
+    ]
+  },
+  "startSection": {
+    "title": "Bắt đầu mở rộng hôm nay",
+    "text": "Tham gia cùng các broker và tổ chức đã hưởng lợi từ giải pháp thanh khoản đa tài sản, tốc độ cao và tùy chỉnh của chúng tôi."
+  },
+  "awardsSection": {
+    "title": "Đừng chỉ nghe chúng tôi nói",
+    "caption": "Được trao giải quốc tế về sự xuất sắc",
+    "cards": {
+      "1": {
+        "title": "Ứng dụng Giao dịch Di động Tốt nhất",
+        "text": "Pan Finance"
+      },
+      "2": {
+        "title": "Nhà cung cấp Cổ phiếu Tốt nhất",
+        "text": "Global Brands Magazine"
+      },
+      "3": {
+        "title": "An ninh Quỹ Khách hàng Tốt nhất",
+        "text": "Global Brands Magazine"
+      },
+      "4": {
+        "title": "Broker CFD Tốt nhất",
+        "text": "AtoZ Markets"
+      },
+      "5": {
+        "title": "Broker Đáng tin cậy nhất",
+        "text": "World Finance"
+      },
+      "6": {
+        "title": "Broker Tốt nhất về Thực thi Lệnh",
+        "text": "Rankia Awards"
+      }
+    }
+  },
+  "footer": {
+    "contacts": {
+      "findUs": "Tìm chúng tôi tại",
+      "title": "Địa chỉ",
+      "address": "Commercial House 1, Office no 4, Eden Island, Mahe, Seychelles"
+    },
+    "disclaimers": {
+      "1": {
+        "title": "Cảnh báo rủi ro:",
+        "text": "CFD là sản phẩm phức tạp có đòn bẩy. Giao dịch CFD mang rủi ro cao và có thể không phù hợp với mọi nhà đầu tư. Giá trị đầu tư có thể tăng hoặc giảm, thua lỗ có thể vượt quá số vốn đầu tư ban đầu hoặc vượt lợi nhuận tiềm năng, và cần hiểu rõ các công cụ. Công ty không chịu trách nhiệm với bất kỳ cá nhân hoặc tổ chức nào về mọi thiệt hại hoặc mất mát, toàn bộ hoặc một phần, phát sinh hoặc liên quan đến các giao dịch CFD."
+      },
+      "2": {
+        "title": "Miễn trừ trách nhiệm:",
+        "text": "Website này không nhằm cung cấp dịch vụ đầu tư cho công dân của một số khu vực pháp lý như các quốc gia thành viên EU/EEA, Anh, Mỹ, Canada, Úc, New Zealand, các quốc gia trong danh sách FATF bao gồm Iran, Bắc Triều Tiên và Myanmar. Bạn phải từ 18 tuổi trở lên hoặc độ tuổi hợp pháp theo quy định của quốc gia để đăng ký tài khoản."
+      },
+      "3": {
+        "title": "Pháp lý:",
+        "text": "Website này được vận hành bởi SQ Sey Ltd, một công ty được ủy quyền và quản lý như một Nhà môi giới chứng khoán bởi Cơ quan Dịch vụ Tài chính Seychelles với số giấy phép {sdLink}"
+      },
+      "sd024": "SD024",
+      "rights": {
+        "title": "© SquaredFinancial 2025. Bảo lưu mọi quyền",
+        "links": ["Chính sách Cookie", "Chính sách Quyền riêng tư"]
+      }
+    }
+  }
+}

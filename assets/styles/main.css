@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+@import '@nuxt/ui';
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  select:focus,
+  textarea:focus,
+  input:focus {
+    font-size: em(16) !important;
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "common": {
+    "accountButton": "Buka akun",
+    "requestButton": "Minta info lebih lanjut",
+    "form": {
+      "header": "Daftar Sekarang",
+      "name": "Nama lengkap",
+      "companyName": "Nama perusahaan",
+      "message": "Beri kami lebih banyak informasi",
+      "country": "Negara tempat tinggal",
+      "searchCountry": "Cari negara...",
+      "email": "Email",
+      "phone": "Telepon",
+      "password": "Kata sandi",
+      "formError": {
+        "title": "Terjadi kesalahan",
+        "text": "Silakan kirim ulang informasi Anda atau hubungi Dukungan Pelanggan kami.",
+        "button": "OK"
+      }
+    },
+    "error": {
+      "emailRequired": "Email wajib diisi",
+      "emailInvalid": "Silakan masukkan email yang valid",
+      "emailRegistered": "Alamat email yang Anda masukkan sudah terdaftar.",
+      "nameRequired": "Nama lengkap wajib diisi",
+      "nameTooShort": "Nama lengkap harus terdiri dari minimal 3 karakter",
+      "nameTooLong": "Nama lengkap harus kurang dari 100 karakter",
+      "namePartTooShort": "Bagian nama harus terdiri dari minimal 2 karakter",
+      "fullNameRequired": "Nama lengkap wajib diisi",
+      "nameInvalidCharacters": "Nama lengkap hanya boleh menggunakan huruf latin",
+      "companyRequired": "Nama perusahaan wajib diisi",
+      "companyTooLong": "Nama perusahaan harus kurang dari 150 karakter",
+      "phoneRequired": "Nomor telepon wajib diisi",
+      "phoneInvalid": "Silakan masukkan nomor telepon yang valid",
+      "phoneRegistered": "Nomor telepon yang Anda masukkan sudah terdaftar.",
+      "passwordRequired": "Kata sandi wajib diisi",
+      "passwordTooShort": "Kata sandi harus minimal 8 karakter",
+      "passwordTooLong": "Kata sandi harus kurang dari 128 karakter",
+      "passwordNoUppercase": "Kata sandi harus mengandung minimal satu huruf besar",
+      "passwordNoLowercase": "Kata sandi harus mengandung minimal satu huruf kecil",
+      "passwordNoNumber": "Kata sandi harus mengandung minimal satu angka",
+      "passwordNoSpecialChar": "Kata sandi harus mengandung minimal satu karakter khusus"
+    },
+    "success": {
+      "title": "Keren!",
+      "subtitle": "Terima kasih telah mendaftar!",
+      "text": "Bonus Anda menunggu — masuk untuk mengklaimnya."
+    }
+  },
+  "meta": {
+    "title": "Bermitra dengan Broker Terkemuka | SquaredFinancial",
+    "description": "Bermitra dengan broker kelas atas dan dapatkan akses ke alat, teknologi, dan dukungan yang Anda butuhkan untuk berkembang. Kembangkan bisnis Anda dan capai lebih besar dengan jangkauan global serta keahlian kami."
+  },
+  "alt": {
+    "logo": "logo squared",
+    "logo2": "Logo SquaredFinancial",
+    "arrow": "panah",
+    "gamma": "gamma"
+  },
+  "header": {
+    "login": "Masuk",
+    "tabs": [
+      "Solusi Likuiditas Institusional",
+      "Mengapa Memilih Likuiditas Utama Kami",
+      "Siapa yang Bekerja dengan Kami"
+    ]
+  },
+  "heroSection": {
+    "title": "Likuiditas Utama.<br class='hidden-desktop' />Untuk Skala",
+    "subtitle": "Segala yang dibutuhkan broker Anda untuk berkembang.",
+    "text": "Akses pasar dalam, eksekusi super cepat, dan model likuiditas fleksibel.",
+    "experience": "Keahlian Terbukti",
+    "awards": "Penghargaan Global"
+  },
+  "qualitiesSection": {
+    "title": "Solusi Likuiditas Institusional",
+    "description": "Kami memberikan likuiditas tingkat institusional yang dalam di berbagai kelas aset, dengan kustomisasi penuh dan kecepatan tinggi. Dari akses pasar Prime of Prime hingga infrastruktur latensi rendah dan model harga yang disesuaikan, kami memberdayakan broker dan klien institusional untuk berkembang secara efisien."
+  },
+  "chooseSection": {
+    "title": "Mengapa Memilih<br /> Likuiditas Utama Kami?",
+    "cards": {
+      "0": {
+        "title": "Spread Ketat<br /> & Akses Pasar Dalam",
+        "text": [
+          "Agregasi likuiditas Prime of Prime untuk kedalaman pasar sebenarnya.",
+          "Spread sangat kompetitif dengan struktur markup fleksibel.",
+          "Eksekusi bertingkat dan logika routing dirancang untuk performa."
+        ]
+      },
+      "1": {
+        "title": "Eksekusi Super Cepat<br /> & Infrastruktur",
+        "text": [
+          "<strong>Keberadaan Equinix LD4/NY4</strong><br />Berdagang dengan koneksi latensi rendah.",
+          "<strong>Routing Pesanan Kecepatan Tinggi</strong><br />Mesin eksekusi pintar dengan aturan routing kompleks.",
+          "<strong>Integrasi FIX API / MT4 / MT5</strong><br />Konektivitas cepat di berbagai platform."
+        ]
+      },
+      "2": {
+        "title": "Likuiditas & Solusi Margin Kustom",
+        "text": [
+          "Aliran harga, markup & model routing yang sepenuhnya dapat disesuaikan.",
+          "Likuiditas khusus yang disesuaikan dengan profil risiko dan aliran Anda.",
+          "Persyaratan margin yang dapat disesuaikan berdasarkan kelas aset dan eksposur."
+        ]
+      },
+      "3": {
+        "title": "Model Harga Fleksibel",
+        "text": [
+          "Tingkat berbasis volume, komisi tetap, atau kesepakatan NTP.",
+          "Syarat transparan dan dapat dinegosiasikan sesuai tahap pertumbuhan Anda."
+        ]
+      },
+      "4": {
+        "title": "Cakupan Multi-Aset",
+        "text": [
+          "<strong>Forex</strong> (Mayor, minor, eksotik)",
+          "<strong>Komoditas</strong> (Emas, minyak, logam)",
+          "<strong>Indeks</strong> (Global & regional)",
+          "<strong>Mata Uang Kripto</strong>",
+          "<strong>Saham & ETF</strong>"
+        ]
+      },
+      "5": {
+        "title": "Onboarding Cepat<br /> & Dukungan Berkelanjutan",
+        "text": [
+          "Pengaturan dalam waktu kurang dari 48 jam.",
+          "Manajemen akun khusus.",
+          "Dukungan tingkat institusional dengan akses langsung ke meja operasi kami."
+        ]
+      }
+    }
+  },
+  "workWithSection": {
+    "title": "Siapa Bekerja dengan Kami",
+    "types": {
+      "0": "Broker FX & CFD<br class='hidden-desktop' /> <small>(Startup dan Berpengalaman)</small>",
+      "1": "Perusahaan Trading Proprietary",
+      "2": "Hedge Fund & Kantor Keluarga",
+      "3": "Penyedia White Label",
+      "4": "Agregator Likuiditas"
+    },
+    "keys": {
+      "title": "Fitur Utama<br class='hidden-mobile' /> Sekilas",
+      "features": {
+        "0": "Spread ketat",
+        "1": "Akses pasar Prime of Prime",
+        "2": "Pengaturan margin kustom",
+        "3": "Eksekusi latensi rendah (Equinix)",
+        "4": "Konektivitas FIX API / MT4 / MT5",
+        "5": "NTP & model harga fleksibel",
+        "6": "Aliran likuiditas kustom",
+        "7": "Routing pesanan pintar",
+        "8": "Manajemen akun khusus",
+        "9": "Onboarding dalam waktu kurang dari 48 jam"
+      }
+    }
+  },
+  "specSection": {
+    "title": "Kondisi lebih baik.<br />Lebih banyak peluang.<br />Tanpa basa-basi",
+    "text": [
+      "<strong>tahun</strong> <br />pengalaman",
+      "Spread mulai dari",
+      "<strong>pips</strong>",
+      "Leverage hingga",
+      "kecepatan eksekusi",
+      "dinilai oleh trader",
+      "instrumen",
+      "dukungan pelanggan"
+    ]
+  },
+  "startSection": {
+    "title": "Mulai Berkembang Hari Ini",
+    "text": "Bergabunglah dengan broker dan institusi yang sudah mendapatkan manfaat dari solusi likuiditas multi-aset, cepat, dan dapat disesuaikan kami."
+  },
+  "awardsSection": {
+    "title": "Jangan hanya percaya kata kami",
+    "caption": "Diakui secara internasional atas keunggulan",
+    "cards": {
+      "1": {
+        "title": "Aplikasi Mobile Trading Terbaik",
+        "text": "Pan Finance"
+      },
+      "2": {
+        "title": "Penyedia Saham Terbaik",
+        "text": "Global Brands Magazine"
+      },
+      "3": {
+        "title": "Keamanan Dana Klien Terbaik",
+        "text": "Global Brands Magazine"
+      },
+      "4": {
+        "title": "Broker CFD Terbaik",
+        "text": "AtoZ Markets"
+      },
+      "5": {
+        "title": "Broker Paling Andal",
+        "text": "World Finance"
+      },
+      "6": {
+        "title": "Broker Terbaik dalam Eksekusi Pesanan",
+        "text": "Rankia Awards"
+      }
+    }
+  },
+  "footer": {
+    "contacts": {
+      "findUs": "Temukan kami di",
+      "title": "Alamat",
+      "address": "Commercial House 1, Office no 4, Eden Island, Mahe, Seychelles"
+    },
+    "disclaimers": {
+      "1": {
+        "title": "Peringatan risiko:",
+        "text": "CFD adalah produk kompleks dengan leverage. Trading CFD memiliki risiko tinggi sehingga mungkin tidak cocok untuk semua investor. Nilai investasi dapat naik atau turun, kerugian dapat melebihi investasi awal atau mengurangi potensi keuntungan, dan pemahaman menyeluruh tentang instrumen diperlukan. Perusahaan tidak bertanggung jawab kepada siapa pun atas kerugian atau kerusakan, sebagian atau seluruhnya, yang disebabkan oleh, dihasilkan dari, atau terkait dengan transaksi CFD."
+      },
+      "2": {
+        "title": "Penafian:",
+        "text": "Situs web ini tidak dimaksudkan untuk menawarkan layanan investasi kepada warga dari yurisdiksi tertentu seperti negara anggota UE/EEA, Inggris, AS, Kanada, Australia, Selandia Baru, negara-negara yang tercantum dalam FATF termasuk Iran, Korea Utara, dan Myanmar (Burma). Anda harus berusia 18 tahun atau usia legal sesuai ketentuan negara Anda untuk mendaftar akun."
+      },
+      "3": {
+        "title": "Legal:",
+        "text": "Situs web ini dioperasikan oleh SQ Sey Ltd, perusahaan yang diotorisasi dan diatur sebagai Dealer Sekuritas oleh Otoritas Jasa Keuangan Seychelles dengan nomor lisensi {sdLink}"
+      },
+      "sd024": "SD024",
+      "rights": {
+        "title": "© SquaredFinancial 2025. Semua hak dilindungi",
+        "links": ["Kebijakan Cookie", "Kebijakan Privasi"]
+      }
+    }
+  }
+}

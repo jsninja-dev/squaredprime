@@ -1,0 +1,231 @@
+{
+  "common": {
+    "accountButton": "Apri conto",
+    "requestButton": "Richiedi maggiori informazioni",
+    "form": {
+      "header": "Registrati Ora",
+      "name": "Nome completo",
+      "companyName": "Nome azienda",
+      "message": "Fornisci ulteriori informazioni",
+      "country": "Paese di residenza",
+      "searchCountry": "Cerca paese...",
+      "email": "Email",
+      "phone": "Telefono",
+      "password": "Password",
+      "formError": {
+        "title": "Si è verificato un errore",
+        "text": "Invia nuovamente le tue informazioni o contatta il nostro Servizio Clienti.",
+        "button": "OK"
+      }
+    },
+    "error": {
+      "emailRequired": "Email obbligatoria",
+      "emailInvalid": "Inserisci un'email valida",
+      "emailRegistered": "L'indirizzo email inserito è già registrato.",
+      "nameRequired": "Nome completo obbligatorio",
+      "nameTooShort": "Il nome completo deve contenere almeno 3 caratteri",
+      "nameTooLong": "Il nome completo deve contenere meno di 100 caratteri",
+      "namePartTooShort": "Ogni parte del nome deve contenere almeno 2 caratteri",
+      "fullNameRequired": "Nome completo obbligatorio",
+      "nameInvalidCharacters": "Il nome completo deve contenere solo caratteri latini",
+      "companyRequired": "Nome azienda obbligatorio",
+      "companyTooLong": "Il nome azienda deve contenere meno di 150 caratteri",
+      "phoneRequired": "Telefono obbligatorio",
+      "phoneInvalid": "Inserisci un numero di telefono valido",
+      "phoneRegistered": "Il numero di telefono inserito è già registrato.",
+      "passwordRequired": "Password obbligatoria",
+      "passwordTooShort": "La password deve contenere almeno 8 caratteri",
+      "passwordTooLong": "La password deve contenere meno di 128 caratteri",
+      "passwordNoUppercase": "La password deve contenere almeno una lettera maiuscola",
+      "passwordNoLowercase": "La password deve contenere almeno una lettera minuscola",
+      "passwordNoNumber": "La password deve contenere almeno un numero",
+      "passwordNoSpecialChar": "La password deve contenere almeno un carattere speciale"
+    },
+    "success": {
+      "title": "Sei un grande!",
+      "subtitle": "Grazie per la registrazione!",
+      "text": "Il tuo bonus ti aspetta — accedi per reclamarlo."
+    }
+  },
+  "meta": {
+    "title": "Collabora con un Broker Leader | SquaredFinancial",
+    "description": "Collabora con un broker di primo livello e accedi agli strumenti, alla tecnologia e al supporto di cui hai bisogno per crescere. Potenzia la tua attività e scala in grande con la nostra portata globale e competenza."
+  },
+  "alt": {
+    "logo": "logo squared",
+    "logo2": "Logo SquaredFinancial",
+    "arrow": "freccia",
+    "gamma": "gamma"
+  },
+  "header": {
+    "login": "Accedi",
+    "tabs": [
+      "Soluzioni di Liquidità Istituzionale",
+      "Perché Scegliere la Nostra Prime Liquidity",
+      "Con Chi Collaboriamo"
+    ]
+  },
+  "heroSection": {
+    "title": "Prime Liquidity.<br class='hidden-desktop' />Per Scalare",
+    "subtitle": "Tutto ciò di cui il tuo broker ha bisogno per crescere.",
+    "text": "Accesso profondo al mercato, esecuzione ultra-rapida e modelli di liquidità flessibili.",
+    "experience": "Competenza Provata",
+    "awards": "Premi Globali"
+  },
+  "qualitiesSection": {
+    "title": "Soluzioni di Liquidità Istituzionale",
+    "description": "Forniamo liquidità istituzionale profonda su più classi di attività, con piena personalizzazione e velocità. Dall'accesso al mercato Prime of Prime a un'infrastruttura a bassa latenza e modelli di prezzo personalizzati, aiutiamo broker e clienti istituzionali a crescere in modo efficiente."
+  },
+  "chooseSection": {
+    "title": "Perché Scegliere la Nostra<br /> Prime Liquidity?",
+    "cards": {
+      "0": {
+        "title": "Spread Ridotti<br /> & Accesso al Mercato Profondo",
+        "text": [
+          "Aggregazione della liquidità Prime of Prime per una reale profondità di mercato.",
+          "Spread ultra competitivi con strutture di markup flessibili.",
+          "Esecuzione a livelli e logica di routing progettata per le prestazioni."
+        ]
+      },
+      "1": {
+        "title": "Esecuzione Ultra-Rapida<br /> & Infrastruttura",
+        "text": [
+          "<strong>Presenza Equinix LD4/NY4</strong><br />Trading con connessioni a bassa latenza.",
+          "<strong>Instradamento Ordini ad Alta Velocità</strong><br />Motore di esecuzione intelligente con regole complesse di routing.",
+          "<strong>Integrazione FIX API / MT4 / MT5</strong><br />Connettività rapida su tutte le piattaforme."
+        ]
+      },
+      "2": {
+        "title": "Liquidità Personalizzata<br /> & Soluzioni di Margine",
+        "text": [
+          "Flussi di prezzi, markup e modelli di routing completamente personalizzabili.",
+          "Liquidità su misura adattata al tuo profilo di rischio e flusso.",
+          "Requisiti di margine personalizzabili in base alla classe di asset e all'esposizione."
+        ]
+      },
+      "3": {
+        "title": "Modelli di Prezzo Flessibili",
+        "text": [
+          "Livelli basati sul volume, commissioni fisse o accordi NTP.",
+          "Condizioni trasparenti e negoziabili in linea con la tua fase di crescita."
+        ]
+      },
+      "4": {
+        "title": "Copertura Multi-Asset",
+        "text": [
+          "<strong>Forex</strong> (Maggiori, minori, esotici)",
+          "<strong>Commodities</strong> (Oro, petrolio, metalli)",
+          "<strong>Indici</strong> (Globali & regionali)",
+          "<strong>Criptovalute</strong>",
+          "<strong>Azioni & ETF</strong>"
+        ]
+      },
+      "5": {
+        "title": "Onboarding Veloce<br /> & Supporto Continuo",
+        "text": [
+          "Configurazione in meno di 48 ore.",
+          "Gestione account dedicata.",
+          "Supporto di livello istituzionale con accesso diretto al nostro desk operativo."
+        ]
+      }
+    }
+  },
+  "workWithSection": {
+    "title": "Con Chi<br class='hidden-mobile' /> Collaboriamo",
+    "types": {
+      "0": "Broker FX & CFD<br class='hidden-desktop' /> <small>(Startup e Consolidati)</small>",
+      "1": "Società di Proprietary Trading",
+      "2": "Hedge Fund & Family Office",
+      "3": "Fornitori White Label",
+      "4": "Aggregatori di Liquidità"
+    },
+    "keys": {
+      "title": "Caratteristiche Chiave<br class='hidden-mobile' /> in Sintesi",
+      "features": {
+        "0": "Spread ridotti",
+        "1": "Accesso al mercato Prime of Prime",
+        "2": "Impostazioni di margine personalizzate",
+        "3": "Esecuzione a bassa latenza (Equinix)",
+        "4": "Connettività FIX API / MT4 / MT5",
+        "5": "NTP & modelli di prezzo flessibili",
+        "6": "Flussi di liquidità personalizzati",
+        "7": "Instradamento ordini intelligente",
+        "8": "Gestione account dedicata",
+        "9": "Onboarding in meno di 48 ore"
+      }
+    }
+  },
+  "specSection": {
+    "title": "Condizioni migliori.<br />Più opportunità.<br />Niente fronzoli",
+    "text": [
+      "<strong>anni</strong> <br />di esperienza",
+      "Spread da",
+      "<strong>pips</strong>",
+      "Leva fino a",
+      "velocità di esecuzione",
+      "valutata dai trader",
+      "strumenti",
+      "supporto clienti"
+    ]
+  },
+  "startSection": {
+    "title": "Inizia a Scalare Oggi",
+    "text": "Unisciti a broker e istituzioni che già beneficiano delle nostre soluzioni di liquidità personalizzabili, ad alta velocità e multi-asset."
+  },
+  "awardsSection": {
+    "title": "Non fidarti solo delle nostre parole",
+    "caption": "Premiati a livello internazionale per l'eccellenza",
+    "cards": {
+      "1": {
+        "title": "Migliore App Mobile di Trading",
+        "text": "Pan Finance"
+      },
+      "2": {
+        "title": "Miglior Fornitore di Azioni",
+        "text": "Global Brands Magazine"
+      },
+      "3": {
+        "title": "Migliore Sicurezza dei Fondi dei Clienti",
+        "text": "Global Brands Magazine"
+      },
+      "4": {
+        "title": "Miglior Broker CFD",
+        "text": "AtoZ Markets"
+      },
+      "5": {
+        "title": "Broker Più Affidabile",
+        "text": "World Finance"
+      },
+      "6": {
+        "title": "Miglior Broker in Esecuzione Ordini",
+        "text": "Rankia Awards"
+      }
+    }
+  },
+  "footer": {
+    "contacts": {
+      "findUs": "Trovaci su",
+      "title": "Indirizzo",
+      "address": "Commercial House 1, Office no 4, Eden Island, Mahe, Seychelles"
+    },
+    "disclaimers": {
+      "1": {
+        "title": "Avvertenza sui rischi:",
+        "text": "I CFD sono prodotti complessi con leva finanziaria. Il trading di CFD comporta un alto livello di rischio e potrebbe non essere adatto a tutti gli investitori. Il valore degli investimenti può aumentare o diminuire, le perdite possono superare l'investimento iniziale o superare i profitti potenziali, ed è necessaria una comprensione approfondita degli strumenti. La Società non è responsabile nei confronti di nessuna persona o entità per eventuali perdite o danni, in tutto o in parte, causati da, derivanti da, o relativi a transazioni con CFD."
+      },
+      "2": {
+        "title": "Disclaimer:",
+        "text": "Il sito web non è destinato a offrire servizi di investimento ai cittadini di alcune giurisdizioni come Stati membri UE/SEE, Regno Unito, USA, Canada, Australia, Nuova Zelanda, paesi nella lista FATF tra cui Iran, Corea del Nord e Myanmar (Birmania). Devi avere 18 anni, o l'età legale stabilita dal tuo paese, per registrarti a un account."
+      },
+      "3": {
+        "title": "Legale:",
+        "text": "Questo sito web è gestito da SQ Sey Ltd, una società autorizzata e regolamentata come Securities Dealer dall'Autorità dei Servizi Finanziari delle Seychelles con numero di licenza {sdLink}"
+      },
+      "sd024": "SD024",
+      "rights": {
+        "title": "© SquaredFinancial 2025. Tutti i diritti riservati",
+        "links": ["Cookie Policy", "Privacy Policy"]
+      }
+    }
+  }
+}
